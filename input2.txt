@@ -1,0 +1,3 @@
+BufferedReader reads text files.
+BufferedWriter writes text files.
+Java supports multithreading.

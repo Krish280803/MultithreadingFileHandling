@@ -1,0 +1,3 @@
+Eclipse is a Java IDE.
+File handling is important.
+Programs become faster using threads.
